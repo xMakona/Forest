@@ -1,2 +1,4 @@
 # Forest
-Ticket tracking system, assign bugs/tasks to members of projects. Manage stories and feature building.
+Work management system, assign trees/branches to foresters. Trees are the largest category to work with, and can be divided into branches. Branches can be split further into leaves. The foresters complete work on a tree's branches and leaves to grow the tree. Trees are considered 'grown' when all of its leaves and branches are grown.
+
+Rot (shoutout Malenia) signifies problems that need to be fixed before the tree can be considered 'grown'. Fixing rot does not help grow the tree. Rot is extra work that lies outside the planned process of growing a tree. If it is not fixed quickly, or not found at all, it can affect the other trees and slow the progress of the entire forest.
